@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+.sidenav {
+  width: 30%;
+  background: grey;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+li {
+  list-style: none;
+  padding-bottom: 10px;
+}
